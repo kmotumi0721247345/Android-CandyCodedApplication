@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,28 +153,75 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="MainActivity">
+      <created>1601929558963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601929558963</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MainActivity">
+      <created>1602006316098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602006316098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MainActivity" />
+    <option name="LAST_COMMIT_MESSAGE" value="MainActivity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1974" y="172" key="#com.intellij.ide.util.MemberChooser" timestamp="1601927139058">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
     <state x="1974" y="172" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1601927139058" />
-    <state width="1546" height="241" key="GridCell.Tab.0.bottom" timestamp="1601926275696">
+    <state x="1633" y="0" key="CommitChangelistDialog2" timestamp="1602006307205">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
-    <state width="1546" height="241" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1601926275696" />
-    <state width="1546" height="241" key="GridCell.Tab.0.center" timestamp="1601926275696">
+    <state x="1633" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602006307205" />
+    <state x="228" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601929550615" />
+    <state width="1553" height="238" key="GridCell.Tab.0.bottom" timestamp="1602006819073">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
-    <state width="1546" height="241" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1601926275696" />
-    <state width="1546" height="241" key="GridCell.Tab.0.left" timestamp="1601926275696">
+    <state width="1553" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602006819073" />
+    <state width="1553" height="238" key="GridCell.Tab.0.center" timestamp="1602006819073">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
-    <state width="1546" height="241" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1601926275696" />
-    <state width="1546" height="241" key="GridCell.Tab.0.right" timestamp="1601926275696">
+    <state width="1553" height="238" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602006819073" />
+    <state width="1553" height="238" key="GridCell.Tab.0.left" timestamp="1602006819073">
       <screen x="1366" y="0" width="1600" height="860" />
     </state>
-    <state width="1546" height="241" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1601926275696" />
+    <state width="1553" height="238" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602006819073" />
+    <state width="1553" height="238" key="GridCell.Tab.0.right" timestamp="1602006819073">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state width="1553" height="238" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602006819073" />
+    <state x="1687" y="118" key="Vcs.Push.Dialog.v2" timestamp="1602006343115">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state x="1687" y="118" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602006343115" />
+    <state x="274" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601930693525" />
+    <state x="1810" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1602004053181">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1601934324664" />
+    <state x="1810" y="222" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1602004053181" />
   </component>
 </project>
